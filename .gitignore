@@ -51,3 +51,7 @@ mosquitto/log/
 *.pem
 *.key
 *.crt
+
+# Claude Code
+CLAUDE.md
+.claude/
