@@ -1,0 +1,10 @@
+{
+  "name": "wifi-deauth-sentinel-frontend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Vue3 project not yet initialized — run: npm create vue@latest'",
+    "build": "echo 'Vue3 project not yet initialized'",
+    "lint": "echo 'Linter not yet configured'"
+  }
+}
