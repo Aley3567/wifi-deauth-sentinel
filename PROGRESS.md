@@ -11,8 +11,8 @@
 - [x] 固件 PlatformIO 骨架
 - [x] 前端 package.json + Dockerfile
 - [x] CI workflow（.github/workflows/ci.yml）
-- [ ] GitHub 仓库创建 + 初始提交推送
-- [ ] GitHub Issues 创建（Step 1-8）
+- [x] GitHub 仓库创建 + 初始提交推送
+- [x] GitHub Issues 创建（Step 1-8）
 
 ## Step 1: ESP32 WiFi 嗅探验证
 - [ ] ESP32 固件：开启 WiFi promiscuous mode
